@@ -5,7 +5,7 @@ from colorama import Fore, init
 
 init(autoreset=True)
 
-url = "https://api.nam.icu/v1/conversation"
+url = "https://api.nam.icu/v2/beta/conversation"
 
 chat = []
 
